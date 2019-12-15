@@ -7,10 +7,10 @@
 <hr>
 <h3><b>Guru Nanak Dev Engineering College
     ESC-18104/18105 Programming for Problem Solving</b>
-<pre><code>Name-Jasjot Singh Bagga 
+<pre><code>Name-Jasnoor Kaur Jassal
 Branch-InformationTechnology
 Section - A2 
-Roll Number - 1921047
+Roll Number - 1921051
 
 # My C programes 
 </code></pre>
