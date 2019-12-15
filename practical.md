@@ -12,9 +12,9 @@ Branch-InformationTechnology
 Section - A2 
 Roll Number - 1921051
 
-# My C programes 
+# My C programs
 </code></pre>
-</h3><h2 id="wap-to-swap-two-numbers-with-the-help-of-third-number">1:WAP to swap two number’s with the help of third number</h2>
+</h3><h2 id="wap-to-swap-two-numbers-with-the-help-of-third-variable">1:WAP to swap two number’s with the help of third variable</h2>
 <pre><code>#include&lt;stdio.h&gt;
 int main()
  {
@@ -44,7 +44,7 @@ After swapping, secondNumber = 12
 ...
 
 </code></pre>
-<h2 id="wap-to-swap-two-numbers-without-using-third-number">2: WAP to swap two number’s without using third number</h2>
+<h2 id="wap-to-swap-two-numbers-without-using-third-variable">2: WAP to swap two numbers without using third variable</h2>
 <pre><code>#include &lt;stdio.h&gt;
 
 int  main()  
@@ -228,17 +228,17 @@ diameter of circle is:12.000000
 circumference of circle:37.680000
 Area of circle:113.040001
 </code></pre>
-<h2 id="wap-to-find-area-and-volume-of-rectangle">10:WAP to find area and volume of rectangle</h2>
-<pre><code>//find area and volume of rectangle
+<h2 id="wap-to-find-area-of-rectangle-and-volume-of-cuboid">10:WAP to find area of rectangle and volume of cuboid</h2>
+<pre><code>//find area of rectangle and volume of cuboid
 #include&lt;stdio.h&gt;
 int main()
 {
  int l,b,h;
- printf("Enter length of rectangle:");
+ printf("Enter length :");
  scanf("%d",&amp;l);
- printf("\nEnter breadth of rectangle:");
+ printf("\nEnter breadth :");
  scanf("%d",&amp;b);
- printf("\nEnter height of rectangle:");
+ printf("\nEnter height :");
  scanf("%d",&amp;h);
  printf("\nThe area of rectangle is:%d",l*b);
  printf("\nThe volume is :%d\n",l*b*h);
@@ -246,11 +246,11 @@ int main()
  }
 </code></pre>
 <p><strong>OUTPUT</strong>:</p>
-<pre><code>Enter length of rectangle:4 
+<pre><code>Enter length :4 
 
-Enter breadth of rectangle:3 
+Enter breadth :3 
 
-Enter height of rectangle:4
+Enter height:4
 
 The area of rectangle is:12
 The volume is :48
@@ -446,7 +446,7 @@ return 0;
 enter the operator to perform (+,-,*,%,/)=%
 12
 </code></pre>
-<h2 id="wap-to-print-a-patterns-of-calculator">16: WAP to print a patterns of calculator</h2>
+<h2 id="wap-to-print-a-pattern-of-calculator">16: WAP to print a pattern of calculator</h2>
 <pre><code>#include&lt;stdio.h&gt;
 int main()
 {
