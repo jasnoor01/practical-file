@@ -155,7 +155,7 @@ return 0;
 <pre><code>enter the number=21
  the no. 21 is prime no.
 </code></pre>
-<h2 id="wap-to-check-the-numbers-in-user-specified-range-are-even-or-not">7:WAP to check the numbers in user specified range are even or not</h2>
+<h2 id="wap-to-check-the-numbers-in-user-specified-range-are-prime-or-not">7:WAP to check the numbers in user specified range are prime or not</h2>
 <pre><code>   
 #include&lt;stdio.h&gt;
 int main()
